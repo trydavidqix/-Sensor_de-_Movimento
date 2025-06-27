@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Sensor",
-    "slug": "Sensor",
+    "slug": "sensor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0bb45424-1a17-4a35-9b19-3b85004771cd"
+      }
+    },
+    "owner": "trydavidqix"
   }
 }
